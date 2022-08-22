@@ -1,0 +1,101 @@
+ID,Name of Book,Author,Imprint,Publisher Group,Binding,Release Date,Genre,Units,Units Issued
+1,the da vinci code,Dan Brown,Corgi Books,Transworld Grp,Paperback,1 Mar 2004,"F2.1  Crime, Thriller & Adventure",10,0
+2,harry potter and the philosopher's stone,J. K. Rowling,Bloomsbury Publishing PLC,Bloomsbury Grp,Paperback,26 Jun 1997,Y2.1  Children's Fiction,10,0
+3,harry potter and the chamber of secrets,J. K. Rowling,Bloomsbury Publishing PLC,Bloomsbury Grp,Paperback,1 Apr 1999,Y2.1  Children's Fiction,10,0
+4,angels and demons,Dan Brown,Corgi Books,Transworld Grp,Paperback,1 Jul 2003,"F2.1  Crime, Thriller & Adventure",10,0
+5,harry potter and the order of the phoenix,J. K. Rowling,Bloomsbury Publishing PLC,Bloomsbury Grp,Hardback,21 Jun 2003,Y2.1  Children's Fiction,10,0
+6,harry potter and the half-blood prince:children's edition,J. K. Rowling,Bloomsbury Publishing PLC,Bloomsbury Grp,Hardback,16 Jul 2005,Y2.1  Children's Fiction,10,0
+7,harry potter and the deathly hallows,J. K. Rowling,Bloomsbury Publishing PLC,Bloomsbury Grp,Hardback,21 Jul 2007,Y2.1  Children's Fiction,10,0
+8,harry potter and the prisoner of azkaban,J. K. Rowling,Bloomsbury Publishing PLC,Bloomsbury Grp,Paperback,1 Apr 2000,Y2.1  Children's Fiction,10,0
+9,twilight,Stephenie Meyer,ATOM,"Little, Brown Book Grp",Paperback,22 Mar 2007,Y2.2  Young Adult Fiction,10,0
+10,harry potter and the goblet of fire,J. K. Rowling,Bloomsbury Publishing PLC,Bloomsbury Grp,Paperback,6 Jul 2001,Y2.1  Children's Fiction,10,0
+11,deception point,Dan Brown,Corgi Books,Transworld Grp,Paperback,1 May 2004,"F2.1  Crime, Thriller & Adventure",10,0
+12,new moon,Stephenie Meyer,ATOM,"Little, Brown Book Grp",Paperback,6 Sep 2007,Y2.2  Young Adult Fiction,10,0
+13,the lovely bones,Alice Sebold,Picador,Pan Macmillan Grp,Paperback,4 Dec 2009,F1.1  General & Literary Fiction,10,0
+14,digital fortress,Dan Brown,Corgi Books,Transworld Grp,Paperback,5 Mar 2004,"F2.1  Crime, Thriller & Adventure",10,0
+15,the curious incident of the dog in the night-time,Mark Haddon,Vintage,Random House Grp,Paperback,1 Apr 2004,F1.1  General & Literary Fiction,10,0
+16,eclipse,Stephenie Meyer,ATOM,"Little, Brown Book Grp",Paperback,3 Jul 2008,Y2.2  Young Adult Fiction,10,0
+17,the girl with the dragon tattoo : millennium trilogy,Stieg Larsson,Quercus,Quercus Grp,Paperback,24 Jul 2008,"F2.1  Crime, Thriller & Adventure",10,0
+18,the kite runner,Khaled Hosseini,Bloomsbury Publishing PLC,Bloomsbury Grp,Paperback,7 Jun 2004,F1.1  General & Literary Fiction,10,0
+19,the time traveler's wife,Audrey Niffenegger,Vintage,Random House Grp,Paperback,29 May 2004,F1.1  General & Literary Fiction,10,0
+20,the world according to clarkson,Jeremy Clarkson,Penguin Books,Penguin Grp,Paperback,26 May 2005,T13.0  Humour: Collections & General,10,0
+21,atonement,Ian McEwan,Vintage,Random House Grp,Paperback,2 May 2002,F1.1  General & Literary Fiction,10,0
+22,the lost symbol,Dan Brown,Bantam Press,Transworld Grp,Hardback,15 Sep 2009,"F2.1  Crime, Thriller & Adventure",10,0
+23,a short history of nearly everything,Bill Bryson,Black Swan,Transworld Grp,Paperback,1 Jun 2004,T8.0  Popular Science,10,0
+24,breaking dawn,Stephenie Meyer,ATOM,"Little, Brown Book Grp",Hardback,4 Aug 2008,Y2.2  Young Adult Fiction,10,0
+25,harry potter and the goblet of fire,J. K. Rowling,Bloomsbury Publishing PLC,Bloomsbury Grp,Hardback,8 Jul 2000,Y2.1  Children's Fiction,10,0
+26,harry potter and the deathly hallows,J. K. Rowling,Bloomsbury Publishing PLC,Bloomsbury Grp,Hardback,21 Jul 2007,F2.2  Science Fiction & Fantasy,10,0
+27,the girl who played with fire : millennium trilogy,Stieg Larsson,Quercus Publishing Plc,Quercus Grp,Paperback,29 Jul 2010,"F2.1  Crime, Thriller & Adventure",10,0
+28,a child called it,Dave Pelzer,Orion (an Imprint of The Orion,Orion Grp,Paperback,4 Jan 2001,T4.0A  Autobiography: General,10,0
+29,the no.1 ladies' detective agency : no.1 ladies' detective agency s.,Alexander McCall Smith,Abacus,"Little, Brown Book Grp",Paperback,5 Jun 2003,"F2.1  Crime, Thriller & Adventure",10,0
+30,you are what you eat:the plan that will change your life,Gillian McKeith,Michael Joseph,Penguin Grp,Paperback,17 Jun 2004,T9.4  Fitness & Diet,10,0
+31,man and boy,Tony Parsons,HarperCollins Publishers,HarperCollins Grp,Paperback,6 Mar 2000,F1.1  General & Literary Fiction,10,0
+32,birdsong,Sebastian Faulks,Vintage,Random House Grp,Paperback,18 Jul 1994,F1.1  General & Literary Fiction,10,0
+33,labyrinth,Kate Mosse,Orion (an Imprint of The Orion,Orion Grp,Paperback,11 Jan 2006,F1.1  General & Literary Fiction,10,0
+34,the island,Victoria Hislop,Headline Review,Headline Grp,Paperback,10 Apr 2006,F1.1  General & Literary Fiction,10,0
+35,life of pi,Yann Martel,Canongate Books,Canongate Grp,Paperback,17 May 2003,F1.1  General & Literary Fiction,10,0
+36,"dr. atkins' new diet revolution   :   the no-hunger, luxurious weight loss p",Robert C. Atkins,Vermilion,Random House Grp,Paperback,2 Jan 2003,T9.4  Fitness & Diet,10,0
+37,the tales of beedle the bard,J. K. Rowling,Bloomsbury Publishing PLC,Bloomsbury Grp,Hardback,4 Dec 2008,Y2.1  Children's Fiction,10,0
+38,captain corelli's mandolin,Louis De Bernieres,Minerva,Random House Grp,Paperback,1 Jun 1995,F1.1  General & Literary Fiction,10,0
+39,delia's how to cook:(bk.1),Delia Smith,BBC Books (Random House),Random House Grp,Hardback,12 Oct 1998,T16.0  Food & Drink: General,10,0
+40,the gruffalo,Julia Donaldson,Macmillan Children's Books,Pan Macmillan Grp,Paperback,6 Mar 2009,Y1.3  Picture Books,10,0
+41,"Eats, Shoots and Leaves:The Zero Tolerance Approach to Punctuation",Lynne Truss,Profile Books,Profile Books Group,Hardback,6 Nov 2003,T2.1  Usage & Writing Guides,10,0
+42,northern lights:his dark materials s.,Philip Pullman,Point,Scholastic Ltd. Grp,Paperback,23 Oct 1998,Y2.2  Young Adult Fiction,10,0
+43,the interpretation of murder,Jed Rubenfeld,Headline Review,Headline Grp,Paperback,15 Jan 2007,"F2.1  Crime, Thriller & Adventure",10,0
+44,the girl who kicked the hornets' nest : millennium trilogy,Stieg Larsson,Quercus Publishing Plc,Quercus Grp,Paperback,1 Apr 2010,"F2.1  Crime, Thriller & Adventure",10,0
+45,bridget jones: the edge of reason,Helen Fielding,Picador,Pan Macmillan Grp,Paperback,15 Jun 2000,F1.1  General & Literary Fiction,10,0
+46,a short history of tractors in ukrainian,Marina Lewycka,Penguin Books,Penguin Grp,Paperback,2 Mar 2006,F1.1  General & Literary Fiction,10,0
+47,the alchemist : a fable about following your dream,Paulo Coelho,Thorsons,HarperCollins Grp,Paperback,6 Sep 1999,F1.1  General & Literary Fiction,10,0
+48,notes from a small island,Bill Bryson,Black Swan,Transworld Grp,Paperback,1 Aug 1996,T8.5  Travel Writing,10,0
+49,the boy in the striped pyjamas,John Boyne,Definitions,Transworld Grp,Paperback,1 Feb 2007,Y2.2  Young Adult Fiction,10,0
+50,stupid white men:...and other sorry excuses for the state of the natio,Michael Moore,Penguin Books,Penguin Grp,Paperback,3 Oct 2002,T7.5  Current Affairs & Issues,10,0
+51,jamie's 30-minute meals,Jamie Oliver,Michael Joseph,Penguin Grp,Hardback,30 Sep 2010,T16.0  Food & Drink: General,10,0
+52,the broker,John Grisham,Arrow Books,Random House Grp,Paperback,27 Aug 2005,"F2.1  Crime, Thriller & Adventure",10,0
+53,bridget jones's diary:a novel,Helen Fielding,Picador,Pan Macmillan Grp,Paperback,20 Jun 1997,F1.1  General & Literary Fiction,10,0
+54,the very hungry caterpillar : the very hungry caterpillar,Eric Carle,Puffin Books,Penguin Grp,Hardback,29 Sep 1994,Y1.1  Pre-school & Early Learning,10,0
+55,a thousand splendid suns,Khaled Hosseini,Bloomsbury Publishing PLC,Bloomsbury Grp,Paperback,22 May 2007,F1.1  General & Literary Fiction,10,0
+56,the sound of laughter,Peter Kay,Century,Random House Grp,Hardback,5 Oct 2006,T4.0A  Autobiography: General,10,0
+57,jamie's italy,Jamie Oliver,Michael Joseph,Penguin Grp,Hardback,3 Oct 2005,T16.1  National & Regional Cuisine,10,0
+58,small island,Andrea Levy,Headline Review,Headline Grp,Paperback,13 Sep 2004,F1.1  General & Literary Fiction,10,0
+59,the memory keeper's daughter,Kim Edwards,Penguin Books,Penguin Grp,Paperback,26 Apr 2007,F1.1  General & Literary Fiction,10,0
+60,billy connolly,Pamela Stephenson,HarperCollins Publishers,HarperCollins Grp,Paperback,8 Jul 2002,T4.1  Biography: The Arts,10,0
+61,the house at riverton,Kate Morton,Pan Books,Pan Macmillan Grp,Paperback,15 Jun 2007,F1.1  General & Literary Fiction,10,0
+62,harry potter and the order of the phoenix,J. K. Rowling,Bloomsbury Publishing PLC,Bloomsbury Grp,Paperback,10 Jul 2004,Y2.1  Children's Fiction,10,0
+63,nigella express,Nigella Lawson,Chatto & Windus,Random House Grp,Hardback,6 Sep 2007,T16.0  Food & Drink: General,10,0
+64,memoirs of a geisha,Arthur Golden,Vintage,Random House Grp,Paperback,4 Jun 1998,F1.1  General & Literary Fiction,10,0
+65,delia's how to cook:(bk.2),Delia Smith,BBC Books (Random House),Random House Grp,Hardback,9 Dec 1999,T16.0  Food & Drink: General,10,0
+66,the subtle knife : his dark materials s.,Philip Pullman,Point,Scholastic Ltd. Grp,Paperback,16 Oct 1998,Y2.2  Young Adult Fiction,10,0
+67,jamie's ministry of food:anyone can learn to cook in 24 hours,Jamie Oliver,Michael Joseph,Penguin Grp,Hardback,3 Oct 2008,T16.0  Food & Drink: General,10,0
+68,guinness world records 2009:2009,Unknown Author,Guinness World Records,Guinness Publisher Group,Hardback,17 Sep 2008,T2.0  Encyclopedias & General Reference,10,0
+69,why don't penguins' feet freeze?:and 114 other questions,Unknown Author,Profile Books,Profile Books Group,Paperback,5 Oct 2006,T8.0  Popular Science,10,0
+70,jamie at home:cook your way to the good life,Jamie Oliver,Michael Joseph,Penguin Grp,Hardback,6 Sep 2007,T16.0  Food & Drink: General,10,0
+71,white teeth,Zadie Smith,Penguin Books,Penguin Grp,Paperback,25 Jan 2001,F1.1  General & Literary Fiction,10,0
+72,the devil wears prada,Lauren Weisberger,HarperCollins Publishers,HarperCollins Grp,Paperback,6 Oct 2003,F1.1  General & Literary Fiction,10,0
+73,at my mother's knee ...:and other low joints,Paul O'Grady,Bantam Press,Transworld Grp,Hardback,24 Sep 2008,T4.1A  Autobiography:  The Arts,10,0
+74,no time for goodbye,Linwood Barclay,Orion (an Imprint of The Orion,Orion Grp,Paperback,12 Jun 2008,"F2.1  Crime, Thriller & Adventure",10,0
+75,"the ""times"" su doku : the utterly addictive number-placing puzzle",Unknown Author,Times Books,HarperCollins Grp,Paperback,7 Mar 2005,T13.4  Puzzles,10,0
+76,chocolat,Joanne Harris,Black Swan,Transworld Grp,Paperback,2 Mar 2000,F1.1  General & Literary Fiction,10,0
+77,the return of the naked chef,Jamie Oliver,Michael Joseph,Penguin Grp,Hardback,30 Mar 2000,T16.0  Food & Drink: General,10,0
+78,angela's ashes:a memoir of a childhood,Frank McCourt,Flamingo,HarperCollins Grp,Paperback,6 May 1997,T4.0A  Autobiography: General,10,0
+79,schott's original miscellany,Ben Schott,Bloomsbury Publishing PLC,Bloomsbury Grp,Hardback,4 Nov 2002,T13.3  Trivia & Quiz Books,10,0
+80,dreams from my father:a story of race and inheritance,Barack Obama,Canongate Books,Canongate Grp,Paperback,5 Jun 2008,"T4.2A  Autobiography: Historical, Political & Military",10,0
+81,the dangerous book for boys,Hal  Conn & Iggulden Iggulden,HarperCollins Publishers,HarperCollins Grp,Hardback,5 Jun 2006,"T11.5  Hobbies, Pastimes & Indoor Games",10,0
+82,to kill a mockingbird,Harper Lee,Arrow Books,Random House Grp,Paperback,5 Oct 1989,F1.1  General & Literary Fiction,10,0
+83,harry potter and the half-blood prince,J. K. Rowling,Bloomsbury Publishing PLC,Bloomsbury Grp,Hardback,16 Jul 2005,F2.2  Science Fiction & Fantasy,10,0
+84,the summons,John Grisham,Arrow Books,Random House Grp,Paperback,28 Sep 2002,"F2.1  Crime, Thriller & Adventure",10,0
+85,the lost symbol,Dan Brown,Corgi Books,Transworld Grp,Paperback,22 Jul 2010,"F2.1  Crime, Thriller & Adventure",10,0
+86,the catcher in the rye,J.D. Salinger,Penguin Books,Penguin Grp,Paperback,4 Aug 1994,F1.1  General & Literary Fiction,10,0
+87,i can make you thin,Paul McKenna,Bantam Press,Transworld Grp,Paperback,17 Jan 2005,T9.4  Fitness & Diet,10,0
+88,happy days with the naked chef,Jamie Oliver,Michael Joseph,Penguin Grp,Hardback,3 Sep 2001,T16.0  Food & Drink: General,10,0
+89,brick lane,Monica Ali,Black Swan,Transworld Grp,Paperback,1 May 2004,F1.1  General & Literary Fiction,10,0
+90,anybody out there?,Marian Keyes,Penguin Books,Penguin Grp,Paperback,8 Feb 2007,F1.1  General & Literary Fiction,10,0
+91,the undomestic goddess,Sophie Kinsella,Black Swan,Transworld Grp,Paperback,2 Jan 2006,F1.1  General & Literary Fiction,10,0
+92,the book thief,Markus Zusak,Black Swan,Transworld Grp,Paperback,1 Jan 2008,F1.1  General & Literary Fiction,10,0
+93,i know you got soul,Jeremy Clarkson,Penguin Books,Penguin Grp,Paperback,25 May 2006,T12.0  Transport: General,10,0
+94,sharon osbourne extreme:my autobiography,Sharon Osbourne,Time Warner Books,"Little, Brown Book Grp",Hardback,3 Oct 2005,T4.1A  Autobiography:  The Arts,10,0
+95,guinness world records 2010,Unknown Author,Guinness World Records,Guinness Publisher Group,Hardback,17 Sep 2009,T2.0  Encyclopedias & General Reference,10,0
+96,the amber spyglass : his dark materials s.,Philip Pullman,Point,Scholastic Ltd. Grp,Paperback,14 Sep 2001,Y2.2  Young Adult Fiction,10,0
+97,can you keep a secret?,Sophie Kinsella,Black Swan,Transworld Grp,Paperback,17 Mar 2003,F1.1  General & Literary Fiction,10,0
+98,down under,Bill Bryson,Black Swan,Transworld Grp,Paperback,6 Aug 2001,T8.5  Travel Writing,10,0
+99,a spot of bother,Mark Haddon,Vintage,Random House Grp,Paperback,7 Jun 2007,F1.1  General & Literary Fiction,10,0
+100,dear fatty,Dawn French,Century,Random House Grp,Hardback,9 Oct 2008,T4.1A  Autobiography:  The Arts,10,0
